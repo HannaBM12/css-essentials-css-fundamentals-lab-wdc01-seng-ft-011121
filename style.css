@@ -39,8 +39,8 @@ section#featured-property p {
 
 #details div {
     position: fixed;
-    left: 0;
-    bottom: 0;
+    left: auto;;
+    bottom: =auto;;
     width: 100%;
     background-color: red;
     color: black;
