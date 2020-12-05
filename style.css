@@ -61,4 +61,5 @@ section#featured-property p {
 
 #details div h3 p{
   display: inline-block;
+  float: left;
 }
