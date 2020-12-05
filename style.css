@@ -37,15 +37,15 @@ section#featured-property p {
 
 }
 
-/*section#details div {
+section#details div {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: red;
     color: black;
-    text-align: center;
-}*/
+    /*text-align: ;*/
+}
 
 /*section#details div {
     float: left;
