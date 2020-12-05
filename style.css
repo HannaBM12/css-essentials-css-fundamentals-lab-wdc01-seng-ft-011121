@@ -58,3 +58,8 @@ section#details div {
   padding: 16px;
   text-decoration: none;
 }
+
+#details div{
+  display: inline-block;
+  float: left
+}
