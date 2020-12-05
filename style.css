@@ -40,7 +40,7 @@ section#featured-property p {
 #details div {
     position: fixed;
     left: 0;
-    bottom: auto;
+    bottom: 0;
     width: 100%;
     background-color: red;
     color: black;
