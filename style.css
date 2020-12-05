@@ -47,9 +47,9 @@ section#details div {
     text-align: center;
 }
 
-section#details div {
+/*section#details div {
     float: left;
-}
+}*/
 
 section#details div {
   display: inline-block;
