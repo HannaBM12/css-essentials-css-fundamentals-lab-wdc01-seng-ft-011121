@@ -51,15 +51,10 @@ section#details div {
     float: left;
 }*/
 
-/*section#details div {
+section#details div {
   display: inline-block;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: black;
+  float: left;
   text-align: center;
   padding: 16px;
   text-decoration: none;
-}*/
+}
